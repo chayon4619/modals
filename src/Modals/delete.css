@@ -1,0 +1,76 @@
+.deleteImg {
+    background-color: rgba(255, 243, 243, 1);
+    width: 234px;
+    height: 234px;
+    left: 950px;
+    top: 570px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.circle {
+    width: 115px;
+    height: 115px;
+    left: 1009px;
+    top: 629px;
+    background: #FFE3E3;
+    border: 2px solid #FF8989;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.delete-text {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 37px;
+    color: #808495;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.delete-body {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+    text-align: center;
+    color: #808495;
+}
+
+.btn-dlt {
+    width: 100px;
+    height: 40px;
+    left: 1104px;
+    top: 986px;
+    background: #FCC3C3;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FE3737;
+    border: none;
+}
+
+.btn-cancel {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    border: none;
+    color: #808495;
+    border-radius: 10px;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mod {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
